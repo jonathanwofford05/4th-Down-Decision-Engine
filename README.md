@@ -130,10 +130,6 @@ Tech Stack
   
   tidyverse
 
-
-Author
-Jonathan Wofford
-Sports Management | Data Analytics 
   ggplot2
   
   Shiny
